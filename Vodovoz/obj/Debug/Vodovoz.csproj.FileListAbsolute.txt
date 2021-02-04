@@ -1,0 +1,15 @@
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\bin\Debug\Vodovoz.exe.config
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\bin\Debug\Vodovoz.exe
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\bin\Debug\Vodovoz.pdb
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.csprojAssemblyReference.cache
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\MainWindow.g.cs
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\App.g.cs
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz_MarkupCompile.cache
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz_MarkupCompile.lref
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\MainWindow.baml
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.g.resources
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.Properties.Resources.resources
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.csproj.GenerateResource.cache
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.csproj.CoreCompileInputs.cache
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.exe
+C:\Users\rogot\source\repos\Vodovoz\Vodovoz\obj\Debug\Vodovoz.pdb
